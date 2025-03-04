@@ -7,3 +7,5 @@ unzip elasticsearch-analysis-ik-7.2.0.zip -d ik
 docker cp ik es:/usr/share/elasticsearch/plugins/ik/
 
 docker restart es
+
+For elasticsearch
